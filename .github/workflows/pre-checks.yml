@@ -22,4 +22,4 @@ jobs:
         with:
           fetch-depth: 0
       - name: Lint commit message
-        uses: csaf-rs/shared-workflows/.github/actions/commitlint@61a2bcd6dfbb086c6d6d80e741476631348f02b6 # TODO: Update to release
+        uses: csaf-rs/shared-workflows/.github/actions/commitlint@f50ba33c55b84b6b0da4c45c1814d1cf82c64f0e # TODO: Update to release
